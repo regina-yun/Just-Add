@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  padding: 20px 0;
+  background-color: pink;
+}
+
+p {
+  text-align: center;
+}
+
+label {
+  padding: 0 10px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+button {
+  margin-left: 20px;
+}
